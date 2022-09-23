@@ -1,0 +1,2 @@
+#用来存储 Flask 命令行系统相关的公开环境变量
+FLASK_DEBUG=development
